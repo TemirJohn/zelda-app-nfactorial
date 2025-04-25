@@ -1,0 +1,11 @@
+# Go
+server/bin/
+server/vendor/
+
+# Env files
+*.env
+
+# OS / Editor junk
+.DS_Store
+.idea/
+*.log
